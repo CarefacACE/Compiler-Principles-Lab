@@ -1,0 +1,9 @@
+int abc(){
+
+int c=3;
+ int b=2;
+ }
+int main(){
+int  a=13;
+abc();
+}
